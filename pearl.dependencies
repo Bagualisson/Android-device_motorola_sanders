@@ -1,0 +1,20 @@
+[
+  {
+    "remote": "github",
+    "repository":  "AlissonGrizotti/kernel_motorola_msm8953",
+    "target_path": "kernel/motorola/msm8953",
+    "branch": "pie"
+  },
+  {
+    "remote": "github",
+    "repository": "AlissonGrizotti/vendor_motorola_sanders",
+    "target_path": "vendor/motorola/sanders",
+    "branch": "pie"
+  },
+  {
+    "remote": "github",
+    "repository": "PixelExperience/packages_resources_MotoActions",
+    "target_path": "packages/resources/MotoActions",
+    "branch": "pie"
+  }
+]

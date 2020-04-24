@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/pixys_sanders.mk
+	$(LOCAL_DIR)/bootleg_sanders.mk
 
 COMMON_LUNCH_CHOICES := \
-	pixys_sanders-userdebug \
-        pixys_sanders-user \
-        pixys_sanders-eng
+	bootleg_sanders-userdebug \
+        bootleg_sanders-user \
+        bootleg_sanders-eng

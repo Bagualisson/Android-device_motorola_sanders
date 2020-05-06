@@ -329,5 +329,3 @@ PRODUCT_PROPERTY_OVERRIDES += \
 PRODUCT_PROPERTY_OVERRIDES += \
     sys.vendor.shutdown.waittime=500
 
-#Havoc Bagual Maintainer
-    ro.havoc.maintainer=AlissonGrizotti(Alissonrgi)
